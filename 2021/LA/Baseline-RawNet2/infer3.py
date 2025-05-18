@@ -86,9 +86,8 @@ def classify_audio(model, waveform, device, threshold=0.7):
         with torch.no_grad():
             output = model(waveform.unsqueeze(0))  # Shape: [1, 2]
             probs = F.softmax(output, dim=1)
-            # Swap probabilities to fix inversion
-            real_score = probs[0][0].item()  # Treat class 0 as REAL (bona-fide)
-            fake_score = probs[0][1].item()  # Treat class 1 as FAKE (spoof)
+            real_score = probs[0][0].item()  
+            fake_score = probs[0][1].item()  
             predicted_class = 1 if real_score >= threshold else 0
             label = "REAL" if predicted_class == 1 else "FAKE"
             confidence = real_score if predicted_class == 1 else fake_score

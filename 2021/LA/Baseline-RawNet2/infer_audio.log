@@ -1,0 +1,305 @@
+2025-05-17 23:31:16,964 - INFO - Loaded model from best_model_in_the_wild.pth on cuda
+2025-05-17 23:31:19,388 - INFO - File: meranaamsahejhai.wav
+Real Score: 0.3651 | Fake Score: 0.6349 | Label: FAKE (Threshold: 0.7)
+
+2025-05-17 23:31:19,388 - INFO - Summary: Total=1, REAL=0, FAKE=1
+2025-05-17 23:32:11,834 - INFO - Loaded model from best_model_in_the_wild.pth on cuda
+2025-05-17 23:32:13,798 - INFO - File: ry.wav
+Real Score: 0.2736 | Fake Score: 0.7264 | Label: FAKE (Threshold: 0.7)
+
+2025-05-17 23:32:13,799 - INFO - Summary: Total=1, REAL=0, FAKE=1
+2025-05-17 23:37:31,535 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/best_model_in_the_wild.pth on cuda
+2025-05-17 23:37:35,752 - INFO - File: ry.wav
+Result: This audio is FAKE
+Confidence: 72.6%
+(Real Score: 0.2736, Fake Score: 0.7264)
+Threshold: 0.7
+2025-05-17 23:37:35,753 - INFO - Summary: Total=1, REAL=0, FAKE=1, Threshold=0.7
+2025-05-17 23:44:31,532 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/best_model_in_the_wild.pth on cuda
+2025-05-17 23:44:35,589 - INFO - File: ai.wav
+Result: This audio is FAKE
+Confidence: 32.8%
+(Real Score: 0.6717, Fake Score: 0.3283)
+Threshold: 0.7
+2025-05-17 23:44:35,589 - INFO - Summary: Total=1, REAL=0, FAKE=1, Threshold=0.7
+2025-05-17 23:48:55,089 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/best_model_in_the_wild.pth on cuda
+2025-05-17 23:48:57,548 - INFO - File: ai.wav
+Result: This audio is FAKE
+Confidence: 32.8%
+(Real Score: 0.6717, Fake Score: 0.3283)
+Threshold: 0.7
+2025-05-17 23:48:57,549 - INFO - Summary: Total=1, REAL=0, FAKE=1, Threshold=0.7
+2025-05-17 23:50:04,369 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/best_model_in_the_wild.pth on cuda
+2025-05-17 23:50:06,455 - INFO - File: sahejtts.wav
+Result: This audio is REAL
+Confidence: 87.4%
+(Real Score: 0.8739, Fake Score: 0.1261)
+Threshold: 0.7
+2025-05-17 23:50:06,456 - INFO - Summary: Total=1, REAL=1, FAKE=0, Threshold=0.7
+2025-05-17 23:51:48,166 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/best_model_in_the_wild.pth on cuda
+2025-05-17 23:51:48,167 - WARNING - File not found: ElevenLabs_Text_to_Speech_audio.mp3
+2025-05-17 23:52:26,083 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/best_model_in_the_wild.pth on cuda
+2025-05-17 23:52:27,910 - INFO - File: C:\Users\Sez\Desktop\tryv\ElevenLabs_Text_to_Speech_audio.mp3
+Result: This audio is REAL
+Confidence: 92.3%
+(Real Score: 0.9233, Fake Score: 0.0767)
+Threshold: 0.7
+2025-05-17 23:52:27,911 - INFO - Summary: Total=1, REAL=1, FAKE=0, Threshold=0.7
+2025-05-17 23:55:58,616 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/best_model_in_the_wild.pth on cuda
+2025-05-17 23:55:58,617 - WARNING - File not found: gali.py
+2025-05-17 23:56:38,551 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/best_model_in_the_wild.pth on cuda
+2025-05-17 23:56:40,850 - INFO - File: gali.wav
+Result: This audio is FAKE
+Confidence: 49.3%
+(Real Score: 0.5067, Fake Score: 0.4933)
+Threshold: 0.7
+2025-05-17 23:56:40,851 - INFO - Summary: Total=1, REAL=0, FAKE=1, Threshold=0.7
+2025-05-17 23:57:46,699 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/best_model_in_the_wild.pth on cuda
+2025-05-17 23:57:48,704 - INFO - File: kaise.wav
+Result: This audio is FAKE
+Confidence: 79.8%
+(Real Score: 0.2016, Fake Score: 0.7984)
+Threshold: 0.7
+2025-05-17 23:57:48,705 - INFO - Summary: Total=1, REAL=0, FAKE=1, Threshold=0.7
+2025-05-17 23:58:05,331 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/best_model_in_the_wild.pth on cuda
+2025-05-17 23:58:07,138 - INFO - File: fem.mp3
+Result: This audio is REAL
+Confidence: 78.2%
+(Real Score: 0.7821, Fake Score: 0.2179)
+Threshold: 0.7
+2025-05-17 23:58:07,138 - INFO - Summary: Total=1, REAL=1, FAKE=0, Threshold=0.7
+2025-05-18 00:01:05,330 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/best_model_in_the_wild.pth on cuda
+2025-05-18 00:01:07,662 - INFO - File: fem.mp3
+Result: This audio is FAKE
+Confidence: 78.2%
+(Real Score: 0.2179, Fake Score: 0.7821)
+Threshold: 0.7
+2025-05-18 00:01:07,663 - INFO - Summary: Total=1, REAL=0, FAKE=1, Threshold=0.7
+2025-05-18 00:01:27,966 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/best_model_in_the_wild.pth on cuda
+2025-05-18 00:01:30,492 - INFO - File: ai.wav
+Result: This audio is FAKE
+Confidence: 67.2%
+(Real Score: 0.3283, Fake Score: 0.6717)
+Threshold: 0.7
+2025-05-18 00:01:30,493 - INFO - Summary: Total=1, REAL=0, FAKE=1, Threshold=0.7
+2025-05-18 00:06:13,530 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/best_model_in_the_wild.pth on cuda
+2025-05-18 00:06:15,301 - INFO - File: kaise.wav
+Result: This audio is REAL
+Confidence: 79.8%
+(Real Score: 0.7984, Fake Score: 0.2016)
+Threshold: 0.7
+2025-05-18 00:06:15,301 - INFO - Summary: Total=1, REAL=1, FAKE=0, Threshold=0.7
+2025-05-18 00:06:34,774 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/best_model_in_the_wild.pth on cuda
+2025-05-18 00:06:36,591 - INFO - File: meranaamsahejhai.wav
+Result: This audio is FAKE
+Confidence: 36.5%
+(Real Score: 0.6349, Fake Score: 0.3651)
+Threshold: 0.7
+2025-05-18 00:06:36,592 - INFO - Summary: Total=1, REAL=0, FAKE=1, Threshold=0.7
+2025-05-18 00:07:13,382 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/best_model_in_the_wild.pth on cuda
+2025-05-18 00:07:15,583 - INFO - File: ai fake.wav
+Result: This audio is FAKE
+Confidence: 89.2%
+(Real Score: 0.1084, Fake Score: 0.8916)
+Threshold: 0.7
+2025-05-18 00:07:15,584 - INFO - Summary: Total=1, REAL=0, FAKE=1, Threshold=0.7
+2025-05-18 00:09:22,231 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/best_model_in_the_wild.pth on cuda
+2025-05-18 00:09:24,434 - INFO - File: ry.wav
+Result: This audio is REAL
+Confidence: 72.6%
+(Real Score: 0.7264, Fake Score: 0.2736)
+Threshold: 0.7
+2025-05-18 00:09:24,435 - INFO - Summary: Total=1, REAL=1, FAKE=0, Threshold=0.7
+2025-05-18 00:12:15,052 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/best_model_in_the_wild.pth on cuda
+2025-05-18 00:12:17,185 - INFO - File: yt.wav
+Result: This audio is FAKE
+Confidence: 69.5%
+(Real Score: 0.3054, Fake Score: 0.6946)
+Threshold: 0.7
+2025-05-18 00:12:17,185 - INFO - Summary: Total=1, REAL=0, FAKE=1, Threshold=0.7
+2025-05-18 00:13:46,723 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/best_model_in_the_wild.pth on cuda
+2025-05-18 00:13:48,559 - INFO - File: YT2.wav
+Result: This audio is FAKE
+Confidence: 84.7%
+(Real Score: 0.1532, Fake Score: 0.8468)
+Threshold: 0.7
+2025-05-18 00:13:48,560 - INFO - Summary: Total=1, REAL=0, FAKE=1, Threshold=0.7
+2025-05-18 00:14:50,119 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/best_model_in_the_wild.pth on cuda
+2025-05-18 00:14:50,120 - WARNING - File not found: kaise.py
+2025-05-18 00:15:12,142 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/best_model_in_the_wild.pth on cuda
+2025-05-18 00:15:14,154 - INFO - File: kaise.wav
+Result: This audio is REAL
+Confidence: 79.8%
+(Real Score: 0.7984, Fake Score: 0.2016)
+Threshold: 0.7
+2025-05-18 00:15:14,154 - INFO - Summary: Total=1, REAL=1, FAKE=0, Threshold=0.7
+2025-05-18 00:23:00,764 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/pretrained/pre_trained_DF_RawNet2/pre_trained_DF_RawNet2.pth on cuda
+2025-05-18 00:23:02,852 - INFO - File: kaise.wav
+Result: This audio is REAL
+Confidence: 86.9%
+(Real Score: 0.8690, Fake Score: 0.1310)
+Threshold: 0.7
+2025-05-18 00:23:02,852 - INFO - Summary: Total=1, REAL=1, FAKE=0, Threshold=0.7
+2025-05-18 00:24:04,389 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/pretrained/pre_trained_DF_RawNet2/pre_trained_DF_RawNet2.pth on cuda
+2025-05-18 00:24:06,279 - INFO - File: C:\Users\Sez\Desktop\tryv\ElevenLabs_Text_to_Speech_audio.mp3
+Result: This audio is REAL
+Confidence: 100.0%
+(Real Score: 0.9998, Fake Score: 0.0002)
+Threshold: 0.7
+2025-05-18 00:24:06,279 - INFO - Summary: Total=1, REAL=1, FAKE=0, Threshold=0.7
+2025-05-18 00:24:59,990 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/pretrained/pre_trained_DF_RawNet2/pre_trained_DF_RawNet2.pth on cuda
+2025-05-18 00:25:01,818 - INFO - File: C:\Users\Sez\Desktop\tryv\2021\LA\Baseline-RawNet2\yt.wav
+Result: This audio is REAL
+Confidence: 100.0%
+(Real Score: 0.9997, Fake Score: 0.0003)
+Threshold: 0.7
+2025-05-18 00:25:01,818 - INFO - Summary: Total=1, REAL=1, FAKE=0, Threshold=0.7
+2025-05-18 00:25:39,613 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/pretrained/pre_trained_DF_RawNet2/pre_trained_DF_RawNet2.pth on cuda
+2025-05-18 00:25:41,416 - INFO - File: C:\Users\Sez\Desktop\tryv\2021\LA\Baseline-RawNet2\yt2.wav
+Result: This audio is REAL
+Confidence: 81.0%
+(Real Score: 0.8105, Fake Score: 0.1895)
+Threshold: 0.7
+2025-05-18 00:25:41,416 - INFO - Summary: Total=1, REAL=1, FAKE=0, Threshold=0.7
+2025-05-18 00:26:26,005 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/pretrained/pre_trained_DF_RawNet2/pre_trained_DF_RawNet2.pth on cuda
+2025-05-18 00:26:28,277 - INFO - File: ai.wav
+Result: This audio is REAL
+Confidence: 100.0%
+(Real Score: 1.0000, Fake Score: 0.0000)
+Threshold: 0.7
+2025-05-18 00:26:28,277 - INFO - Summary: Total=1, REAL=1, FAKE=0, Threshold=0.7
+2025-05-18 00:27:27,758 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/pretrained/pre_trained_DF_RawNet2/pre_trained_DF_RawNet2.pth on cuda
+2025-05-18 00:27:29,858 - INFO - File: ai fake.wav
+Result: This audio is FAKE
+Confidence: 99.8%
+(Real Score: 0.0019, Fake Score: 0.9981)
+Threshold: 0.7
+2025-05-18 00:27:29,859 - INFO - Summary: Total=1, REAL=0, FAKE=1, Threshold=0.7
+2025-05-18 00:38:35,390 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/pretrained/pre_trained_DF_RawNet2/pre_trained_DF_RawNet2.pth on cuda
+2025-05-18 00:38:37,870 - INFO - File: C:\Users\Sez\Desktop\tryv\release_in_the_wild\release_in_the_wild\0.wav
+Result: This audio is REAL
+Confidence: 90.2%
+(Real Score: 0.9016, Fake Score: 0.0984)
+Threshold: 0.7
+2025-05-18 00:38:37,871 - INFO - Summary: Total=1, REAL=1, FAKE=0, Threshold=0.7
+2025-05-18 00:39:16,685 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/pretrained/pre_trained_DF_RawNet2/pre_trained_DF_RawNet2.pth on cuda
+2025-05-18 00:39:16,686 - WARNING - File not found: 1.wav
+2025-05-18 00:39:54,303 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/pretrained/pre_trained_DF_RawNet2/pre_trained_DF_RawNet2.pth on cuda
+2025-05-18 00:39:56,535 - INFO - File: C:\Users\Sez\Desktop\tryv\release_in_the_wild\release_in_the_wild\1.wav
+Result: This audio is FAKE
+Confidence: 98.4%
+(Real Score: 0.0156, Fake Score: 0.9844)
+Threshold: 0.7
+2025-05-18 00:39:56,536 - INFO - Summary: Total=1, REAL=0, FAKE=1, Threshold=0.7
+2025-05-18 00:40:53,387 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/pretrained/pre_trained_DF_RawNet2/pre_trained_DF_RawNet2.pth on cuda
+2025-05-18 00:40:55,596 - INFO - File: C:\Users\Sez\Desktop\tryv\release_in_the_wild\release_in_the_wild\4.wav
+Result: This audio is FAKE
+Confidence: 100.0%
+(Real Score: 0.0000, Fake Score: 1.0000)
+Threshold: 0.7
+2025-05-18 00:40:55,597 - INFO - Summary: Total=1, REAL=0, FAKE=1, Threshold=0.7
+2025-05-18 01:15:09,378 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/pretrained/pre_trained_DF_RawNet2/pre_trained_DF_RawNet2.pth on cuda
+2025-05-18 01:15:11,623 - INFO - File: C:\Users\Sez\Desktop\tryv\release_in_the_wild\release_in_the_wild\4.wav
+Result: This audio is REAL
+Confidence: 100.0%
+(Real Score: 1.0000, Fake Score: 0.0000)
+Threshold: 0.7
+2025-05-18 01:15:11,623 - INFO - Summary: Total=1, REAL=1, FAKE=0, Threshold=0.7
+2025-05-18 01:15:36,720 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/pretrained/pre_trained_DF_RawNet2/pre_trained_DF_RawNet2.pth on cuda
+2025-05-18 01:15:38,570 - INFO - File: C:\Users\Sez\Desktop\tryv\release_in_the_wild\release_in_the_wild\5.wav
+Result: This audio is FAKE
+Confidence: 91.5%
+(Real Score: 0.0846, Fake Score: 0.9154)
+Threshold: 0.7
+2025-05-18 01:15:38,571 - INFO - Summary: Total=1, REAL=0, FAKE=1, Threshold=0.7
+2025-05-18 01:16:00,905 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/pretrained/pre_trained_DF_RawNet2/pre_trained_DF_RawNet2.pth on cuda
+2025-05-18 01:16:02,703 - INFO - File: C:\Users\Sez\Desktop\tryv\release_in_the_wild\release_in_the_wild\10.wav
+Result: This audio is FAKE
+Confidence: 100.0%
+(Real Score: 0.0001, Fake Score: 0.9999)
+Threshold: 0.7
+2025-05-18 01:16:02,703 - INFO - Summary: Total=1, REAL=0, FAKE=1, Threshold=0.7
+2025-05-18 01:16:39,254 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/pretrained/pre_trained_DF_RawNet2/pre_trained_DF_RawNet2.pth on cuda
+2025-05-18 01:16:41,151 - INFO - File: C:\Users\Sez\Desktop\tryv\release_in_the_wild\release_in_the_wild\7.wav
+Result: This audio is REAL
+Confidence: 99.9%
+(Real Score: 0.9994, Fake Score: 0.0006)
+Threshold: 0.7
+2025-05-18 01:16:41,152 - INFO - Summary: Total=1, REAL=1, FAKE=0, Threshold=0.7
+2025-05-18 01:17:08,067 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/pretrained/pre_trained_DF_RawNet2/pre_trained_DF_RawNet2.pth on cuda
+2025-05-18 01:17:09,924 - INFO - File: C:\Users\Sez\Desktop\tryv\release_in_the_wild\release_in_the_wild\15.wav
+Result: This audio is FAKE
+Confidence: 100.0%
+(Real Score: 0.0000, Fake Score: 1.0000)
+Threshold: 0.7
+2025-05-18 01:17:09,925 - INFO - Summary: Total=1, REAL=0, FAKE=1, Threshold=0.7
+2025-05-18 01:17:42,110 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/pretrained/pre_trained_DF_RawNet2/pre_trained_DF_RawNet2.pth on cuda
+2025-05-18 01:17:44,048 - INFO - File: C:\Users\Sez\Desktop\tryv\release_in_the_wild\release_in_the_wild\25.wav
+Result: This audio is REAL
+Confidence: 85.4%
+(Real Score: 0.8540, Fake Score: 0.1460)
+Threshold: 0.7
+2025-05-18 01:17:44,048 - INFO - Summary: Total=1, REAL=1, FAKE=0, Threshold=0.7
+2025-05-18 01:24:01,587 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/pretrained/pre_trained_DF_RawNet2/pre_trained_DF_RawNet2.pth on cuda
+2025-05-18 01:24:03,499 - INFO - File: ai.wav
+Result: This audio is REAL
+Confidence: 100.0%
+(Real Score: 1.0000, Fake Score: 0.0000)
+Threshold: 0.7
+2025-05-18 01:24:03,500 - INFO - Summary: Total=1, REAL=1, FAKE=0, Threshold=0.7
+2025-05-18 01:30:28,531 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/pretrained/pre_trained_DF_RawNet2/pre_trained_DF_RawNet2.pth on cuda
+2025-05-18 01:30:30,383 - INFO - File: fem.mp3
+Result: This audio is FAKE
+Confidence: 70.8%
+(Real Score: 0.2918, Fake Score: 0.7082)
+Threshold: 0.7
+2025-05-18 01:30:30,383 - INFO - Summary: Total=1, REAL=0, FAKE=1, Threshold=0.7
+2025-05-18 01:34:16,228 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/pretrained/pre_trained_DF_RawNet2/pre_trained_DF_RawNet2.pth on cuda
+2025-05-18 01:34:18,100 - INFO - File: yt.wav
+Result: This audio is REAL
+Confidence: 100.0%
+(Real Score: 0.9997, Fake Score: 0.0003)
+Threshold: 0.7
+2025-05-18 01:34:18,101 - INFO - Summary: Total=1, REAL=1, FAKE=0, Threshold=0.7
+2025-05-18 01:35:43,335 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/best_model_in_the_wild.pth on cuda
+2025-05-18 01:35:45,201 - INFO - File: yt.wav
+Result: This audio is FAKE
+Confidence: 69.5%
+(Real Score: 0.3054, Fake Score: 0.6946)
+Threshold: 0.7
+2025-05-18 01:35:45,202 - INFO - Summary: Total=1, REAL=0, FAKE=1, Threshold=0.7
+2025-05-18 01:36:13,147 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/best_model_in_the_wild.pth on cuda
+2025-05-18 01:36:15,061 - INFO - File: fem.mp3
+Result: This audio is FAKE
+Confidence: 78.2%
+(Real Score: 0.2179, Fake Score: 0.7821)
+Threshold: 0.7
+2025-05-18 01:36:15,062 - INFO - Summary: Total=1, REAL=0, FAKE=1, Threshold=0.7
+2025-05-18 01:37:13,690 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/best_model_in_the_wild.pth on cuda
+2025-05-18 01:37:15,519 - INFO - File: ai.wav
+Result: This audio is FAKE
+Confidence: 67.2%
+(Real Score: 0.3283, Fake Score: 0.6717)
+Threshold: 0.7
+2025-05-18 01:37:15,520 - INFO - Summary: Total=1, REAL=0, FAKE=1, Threshold=0.7
+2025-05-18 01:38:41,232 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/best_model_in_the_wild.pth on cuda
+2025-05-18 01:38:43,065 - INFO - File: meranaamsahejhai.wav
+Result: This audio is FAKE
+Confidence: 36.5%
+(Real Score: 0.6349, Fake Score: 0.3651)
+Threshold: 0.7
+2025-05-18 01:38:43,065 - INFO - Summary: Total=1, REAL=0, FAKE=1, Threshold=0.7
+2025-05-18 01:39:20,757 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/best_model_in_the_wild.pth on cuda
+2025-05-18 01:39:22,573 - INFO - File: yt.wav
+Result: This audio is FAKE
+Confidence: 69.5%
+(Real Score: 0.3054, Fake Score: 0.6946)
+Threshold: 0.7
+2025-05-18 01:39:22,574 - INFO - Summary: Total=1, REAL=0, FAKE=1, Threshold=0.7
+2025-05-18 01:40:33,509 - INFO - Loaded model from C:/Users/Sez/Desktop/tryv/2021/LA/Baseline-RawNet2/best_model_in_the_wild.pth on cuda
+2025-05-18 01:40:35,296 - INFO - File: YT2.wav
+Result: This audio is FAKE
+Confidence: 84.7%
+(Real Score: 0.1532, Fake Score: 0.8468)
+Threshold: 0.7
+2025-05-18 01:40:35,297 - INFO - Summary: Total=1, REAL=0, FAKE=1, Threshold=0.7
